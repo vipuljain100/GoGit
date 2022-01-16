@@ -1,1 +1,8 @@
 Rebasing and Stash
+It makes it easy to contribute to your open source projects. To be honest, nearly every open-source project uses GitHub to manage their project. ...
+Documentation
+Showcase your work
+Markdown
+GitHub is a repository
+Track changes in your code across versions
+Integration options
